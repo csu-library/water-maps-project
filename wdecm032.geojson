@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.595073,
-              40.402497
+              -106.596041,
+              40.392313
             ],
             [
-              -106.017055,
-              40.402497
+              -106.357464,
+              40.392313
             ],
             [
-              -106.017055,
-              40.92683
+              -106.357464,
+              40.840683
             ],
             [
-              -106.595073,
-              40.92683
+              -106.596041,
+              40.840683
             ],
             [
-              -106.595073,
-              40.402497
+              -106.596041,
+              40.392313
             ]
           ]
         ]
@@ -34,13 +34,24 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T11N R82W Section 15",
           "T10N R82W Section 15",
+          "T9N R82W Section 15",
+          "T8N R82W Section 15",
+          "T7N R82W Section 15",
+          "T6N R82W Section 15",
+          "T5N R82W Section 15",
+          "T10N R81W Section 15",
           "T9N R81W Section 15",
+          "T8N R81W Section 15",
+          "T7N R81W Section 15",
+          "T6N R81W Section 15",
+          "T5N R81W Section 15",
+          "T10N R80W Section 15",
+          "T9N R80W Section 15",
           "T8N R80W Section 15",
-          "T7N R79W Section 15",
-          "T6N R78W Section 15",
-          "T5N R77W Section 15"
+          "T7N R80W Section 15",
+          "T6N R80W Section 15",
+          "T5N R80W Section 15"
         ]
       }
     },
@@ -49,15 +60,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.480316,
-          40.84046
+          -105.25579574221423,
+          40.78464618091645
         ]
       },
       "properties": {
-        "name": "North Gate State Park",
-        "type": "reservoir",
-        "coordinate_source": "Township-Range: T10N R81W Section 15",
-        "township_range_used": "T10N R81W Section 15"
+        "name": "North Fork Cache la Poudre River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: North Fork Cache la Poudre River",
+        "township_range_used": ""
       }
     },
     {
@@ -65,15 +76,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.681022,
-          40.744628
+          -105.80731145211017,
+          40.42259235
         ]
       },
       "properties": {
-        "name": "Sand Mill",
-        "type": "reservoir",
-        "coordinate_source": "Township-Range: T9N R74W Section 15",
-        "township_range_used": "T9N R74W Section 15"
+        "name": "Poudre Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Poudre Lake",
+        "township_range_used": ""
       }
     },
     {
@@ -81,15 +92,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.253048,
-          40.751342
+          -105.823067,
+          40.2522073
         ]
       },
       "properties": {
-        "name": "Walden",
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Grand Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.84307525298914,
+          40.2287823
+        ]
+      },
+      "properties": {
+        "name": "Shadow Mountain Lake",
         "type": "reservoir",
-        "coordinate_source": "Township-Range: T9N R79W Section 15",
-        "township_range_used": "T9N R79W Section 15"
+        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
+        "township_range_used": ""
       }
     }
   ]
