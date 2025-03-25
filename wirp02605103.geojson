@@ -9,14 +9,14 @@
           [
             [
               -106.131759,
-              40.310969
+              40.309623
             ],
             [
-              -105.553514,
-              40.310969
+              -105.219692,
+              40.309623
             ],
             [
-              -105.553514,
+              -105.219692,
               40.663455
             ],
             [
@@ -25,7 +25,7 @@
             ],
             [
               -106.131759,
-              40.310969
+              40.309623
             ]
           ]
         ]
@@ -37,9 +37,16 @@
           "T8N R78W Section 15",
           "T7N R77W Section 15",
           "T7N R76W Section 15",
-          "T6N R75W Section 15",
-          "T5N R74W Section 15",
-          "T4N R73W Section 15"
+          "T7N R75W Section 15",
+          "T7N R74W Section 15",
+          "T7N R73W Section 15",
+          "T7N R72W Section 15",
+          "T7N R71W Section 15",
+          "T7N R70W Section 15",
+          "T6N R77W Section 15",
+          "T6N R76W Section 15",
+          "T5N R77W Section 15",
+          "T4N R77W Section 15"
         ]
       }
     },
@@ -48,15 +55,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.823067,
-          40.2522073
+          -105.778014,
+          40.308446
         ]
       },
       "properties": {
         "name": "Grand Lake",
         "type": "lake",
-        "coordinate_source": "Geocoded from name: Grand Lake",
-        "township_range_used": ""
+        "coordinate_source": "Township-Range: T4N R75W Section 15",
+        "township_range_used": "T4N R75W Section 15"
       }
     },
     {
@@ -72,22 +79,6 @@
         "name": "Shadow Mountain Lake",
         "type": "reservoir",
         "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.4861294669741,
-          39.05689950336452
-        ]
-      },
-      "properties": {
-        "name": "Colorado River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Colorado River",
         "township_range_used": ""
       }
     },
@@ -112,14 +103,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.31063842446102,
-          37.67106355046832
+          -105.2653391,
+          40.4151047
         ]
       },
       "properties": {
-        "name": "North Fork",
+        "name": "Big Thompson River",
         "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork",
+        "coordinate_source": "Geocoded from name: Big Thompson River",
         "township_range_used": ""
       }
     },
@@ -128,14 +119,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.94525085,
-          37.9583394
+          -105.1326096,
+          40.7440806
         ]
       },
       "properties": {
-        "name": "Willow Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Willow Creek",
+        "name": "Poudre Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25877064062789,
+          40.21766313491101
+        ]
+      },
+      "properties": {
+        "name": "St. Vrain Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
         "township_range_used": ""
       }
     }
