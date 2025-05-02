@@ -12,16 +12,16 @@
               40.392313
             ],
             [
-              -106.357464,
+              -106.471741,
               40.392313
             ],
             [
-              -106.357464,
-              40.840683
+              -106.471741,
+              40.927634
             ],
             [
               -106.596041,
-              40.840683
+              40.927634
             ],
             [
               -106.596041,
@@ -34,24 +34,20 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T10N R82W Section 15",
-          "T9N R82W Section 15",
-          "T8N R82W Section 15",
-          "T7N R82W Section 15",
-          "T6N R82W Section 15",
           "T5N R82W Section 15",
-          "T10N R81W Section 15",
-          "T9N R81W Section 15",
-          "T8N R81W Section 15",
-          "T7N R81W Section 15",
-          "T6N R81W Section 15",
+          "T6N R82W Section 15",
+          "T7N R82W Section 15",
+          "T8N R82W Section 15",
+          "T9N R82W Section 15",
+          "T10N R82W Section 15",
+          "T11N R82W Section 15",
           "T5N R81W Section 15",
-          "T10N R80W Section 15",
-          "T9N R80W Section 15",
-          "T8N R80W Section 15",
-          "T7N R80W Section 15",
-          "T6N R80W Section 15",
-          "T5N R80W Section 15"
+          "T6N R81W Section 15",
+          "T7N R81W Section 15",
+          "T8N R81W Section 15",
+          "T9N R81W Section 15",
+          "T10N R81W Section 15",
+          "T11N R81W Section 15"
         ]
       }
     },
@@ -60,14 +56,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.25579574221423,
-          40.78464618091645
+          -107.9452508,
+          37.9583394
         ]
       },
       "properties": {
-        "name": "North Fork Cache la Poudre River",
+        "name": "Willow Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Willow Creek",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2557957,
+          40.7846462
+        ]
+      },
+      "properties": {
+        "name": "North Fork La Poudre",
         "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork Cache la Poudre River",
+        "coordinate_source": "Geocoded from name: North Fork La Poudre",
         "township_range_used": ""
       }
     },
@@ -76,14 +88,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.80731145211017,
-          40.42259235
+          -105.1531186,
+          39.9384583
         ]
       },
       "properties": {
-        "name": "Poudre Lake",
-        "type": "lake",
-        "coordinate_source": "Geocoded from name: Poudre Lake",
+        "name": "Rand Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Rand Creek",
         "township_range_used": ""
       }
     },
@@ -92,14 +104,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.823067,
-          40.2522073
+          -106.5026681,
+          38.8787574
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "coordinate_source": "Geocoded from name: Grand Lake",
+        "name": "Illinois Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Illinois Creek",
         "township_range_used": ""
       }
     },
@@ -108,14 +120,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.84307525298914,
-          40.2287823
+          -106.008603,
+          40.5533073
         ]
       },
       "properties": {
-        "name": "Shadow Mountain Lake",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
+        "name": "Michigan Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Michigan Creek",
         "township_range_used": ""
       }
     }
