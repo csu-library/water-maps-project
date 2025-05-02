@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.586991,
-              40.573761
-            ],
-            [
-              -105.565396,
-              40.573761
-            ],
-            [
-              -105.565396,
-              40.57797
+              -106.596041,
+              40.392313
             ],
             [
               -106.586991,
-              40.57797
+              40.392313
             ],
             [
               -106.586991,
-              40.573761
+              40.92683
+            ],
+            [
+              -106.596041,
+              40.92683
+            ],
+            [
+              -106.596041,
+              40.392313
             ]
           ]
         ]
@@ -34,16 +34,13 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
+          "T11N R82W Section 15",
+          "T10N R82W Section 15",
+          "T9N R82W Section 15",
+          "T8N R82W Section 15",
           "T7N R82W Section 15",
-          "T7N R81W Section 15",
-          "T7N R80W Section 15",
-          "T7N R79W Section 15",
-          "T7N R78W Section 15",
-          "T7N R77W Section 15",
-          "T7N R76W Section 15",
-          "T7N R75W Section 15",
-          "T7N R74W Section 15",
-          "T7N R73W Section 15"
+          "T6N R82W Section 15",
+          "T5N R82W Section 15"
         ]
       }
     },
@@ -57,9 +54,9 @@
         ]
       },
       "properties": {
-        "name": "North Fork La Poudre",
+        "name": "North Fork Cache La Poudre River",
         "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork La Poudre",
+        "coordinate_source": "Geocoded from name: North Fork Cache La Poudre River",
         "township_range_used": ""
       }
     },
@@ -84,14 +81,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.9033674,
-          39.7846264
+          -105.823067,
+          40.2522073
         ]
       },
       "properties": {
-        "name": "Sand Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Sand Creek",
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Grand Lake",
         "township_range_used": ""
       }
     },
@@ -100,14 +97,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.939459,
-          40.0860969
+          -105.8430753,
+          40.2287823
         ]
       },
       "properties": {
-        "name": "Granby",
+        "name": "Shadow Mountain Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9452508,
+          37.9583394
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Willow Creek",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.037876,
+          38.9965103
+        ]
+      },
+      "properties": {
+        "name": "Granby Reservoir",
         "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Granby",
+        "coordinate_source": "Geocoded from name: Granby Reservoir",
         "township_range_used": ""
       }
     }
