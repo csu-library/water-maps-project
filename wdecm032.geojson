@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.596041,
-              40.392313
+              -106.586991,
+              40.573761
             ],
             [
-              -106.471741,
-              40.392313
+              -105.565396,
+              40.573761
             ],
             [
-              -106.471741,
-              40.927634
+              -105.565396,
+              40.57797
             ],
             [
-              -106.596041,
-              40.927634
+              -106.586991,
+              40.57797
             ],
             [
-              -106.596041,
-              40.392313
+              -106.586991,
+              40.573761
             ]
           ]
         ]
@@ -34,37 +34,17 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T5N R82W Section 15",
-          "T6N R82W Section 15",
           "T7N R82W Section 15",
-          "T8N R82W Section 15",
-          "T9N R82W Section 15",
-          "T10N R82W Section 15",
-          "T11N R82W Section 15",
-          "T5N R81W Section 15",
-          "T6N R81W Section 15",
           "T7N R81W Section 15",
-          "T8N R81W Section 15",
-          "T9N R81W Section 15",
-          "T10N R81W Section 15",
-          "T11N R81W Section 15"
+          "T7N R80W Section 15",
+          "T7N R79W Section 15",
+          "T7N R78W Section 15",
+          "T7N R77W Section 15",
+          "T7N R76W Section 15",
+          "T7N R75W Section 15",
+          "T7N R74W Section 15",
+          "T7N R73W Section 15"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.9452508,
-          37.9583394
-        ]
-      },
-      "properties": {
-        "name": "Willow Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Willow Creek",
-        "township_range_used": ""
       }
     },
     {
@@ -88,14 +68,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.1531186,
-          39.9384583
+          -105.8073115,
+          40.4225924
         ]
       },
       "properties": {
-        "name": "Rand Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Rand Creek",
+        "name": "Poudre Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Poudre Lake",
         "township_range_used": ""
       }
     },
@@ -104,14 +84,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5026681,
-          38.8787574
+          -104.9033674,
+          39.7846264
         ]
       },
       "properties": {
-        "name": "Illinois Creek",
+        "name": "Sand Creek",
         "type": "creek",
-        "coordinate_source": "Geocoded from name: Illinois Creek",
+        "coordinate_source": "Geocoded from name: Sand Creek",
         "township_range_used": ""
       }
     },
@@ -120,14 +100,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.008603,
-          40.5533073
+          -105.939459,
+          40.0860969
         ]
       },
       "properties": {
-        "name": "Michigan Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Michigan Creek",
+        "name": "Granby",
+        "type": "reservoir",
+        "coordinate_source": "Geocoded from name: Granby",
         "township_range_used": ""
       }
     }
