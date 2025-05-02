@@ -12,11 +12,11 @@
               40.311436
             ],
             [
-              -105.896898,
+              -106.109514,
               40.311436
             ],
             [
-              -105.896898,
+              -106.109514,
               40.663455
             ],
             [
@@ -38,15 +38,7 @@
           "T7N R78W Section 15",
           "T6N R78W Section 15",
           "T5N R78W Section 15",
-          "T4N R78W Section 15",
-          "T8N R77W Section 15",
-          "T7N R77W Section 15",
-          "T6N R77W Section 15",
-          "T5N R77W Section 15",
-          "T8N R76W Section 15",
-          "T7N R76W Section 15",
-          "T6N R76W Section 15",
-          "T5N R76W Section 15"
+          "T4N R78W Section 15"
         ]
       }
     },
@@ -103,38 +95,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.1326096,
-          40.7440806
-        ]
-      },
-      "properties": {
-        "name": "Poudre Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.2653391,
-          40.4151047
-        ]
-      },
-      "properties": {
-        "name": "Big Thompson River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Big Thompson River",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -108.4861295,
           39.0568995
         ]
@@ -151,30 +111,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.2587706,
-          40.2176631
+          -105.2996194,
+          40.6867882
         ]
       },
       "properties": {
-        "name": "St. Vrain Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8768039,
-          40.3298695
-        ]
-      },
-      "properties": {
-        "name": "Little Thompson River",
+        "name": "Cache la Poudre River",
         "type": "river",
-        "coordinate_source": "Geocoded from name: Little Thompson River",
+        "coordinate_source": "Geocoded from name: Cache la Poudre River",
         "township_range_used": ""
       }
     },
@@ -183,30 +127,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.4509847,
-          40.4537393
+          -105.2653391,
+          40.4151047
         ]
       },
       "properties": {
-        "name": "North Fork Big Thompson",
+        "name": "Big Thompson River",
         "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork Big Thompson",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.9452508,
-          37.9583394
-        ]
-      },
-      "properties": {
-        "name": "Willow Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Willow Creek",
+        "coordinate_source": "Geocoded from name: Big Thompson River",
         "township_range_used": ""
       }
     }
