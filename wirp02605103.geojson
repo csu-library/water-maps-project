@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.131759,
-              40.309623
+              -106.131868,
+              40.311436
             ],
             [
-              -105.219692,
-              40.309623
+              -105.896898,
+              40.311436
             ],
             [
-              -105.219692,
+              -105.896898,
               40.663455
             ],
             [
-              -106.131759,
+              -106.131868,
               40.663455
             ],
             [
-              -106.131759,
-              40.309623
+              -106.131868,
+              40.311436
             ]
           ]
         ]
@@ -35,18 +35,18 @@
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
           "T8N R78W Section 15",
+          "T7N R78W Section 15",
+          "T6N R78W Section 15",
+          "T5N R78W Section 15",
+          "T4N R78W Section 15",
+          "T8N R77W Section 15",
           "T7N R77W Section 15",
-          "T7N R76W Section 15",
-          "T7N R75W Section 15",
-          "T7N R74W Section 15",
-          "T7N R73W Section 15",
-          "T7N R72W Section 15",
-          "T7N R71W Section 15",
-          "T7N R70W Section 15",
           "T6N R77W Section 15",
-          "T6N R76W Section 15",
           "T5N R77W Section 15",
-          "T4N R77W Section 15"
+          "T8N R76W Section 15",
+          "T7N R76W Section 15",
+          "T6N R76W Section 15",
+          "T5N R76W Section 15"
         ]
       }
     },
@@ -55,15 +55,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.778014,
-          40.308446
+          -105.823067,
+          40.2522073
         ]
       },
       "properties": {
         "name": "Grand Lake",
         "type": "lake",
-        "coordinate_source": "Township-Range: T4N R75W Section 15",
-        "township_range_used": "T4N R75W Section 15"
+        "coordinate_source": "Geocoded from name: Grand Lake",
+        "township_range_used": ""
       }
     },
     {
@@ -71,7 +71,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.84307525298914,
+          -105.8430753,
           40.2287823
         ]
       },
@@ -87,7 +87,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.54270076542284,
+          -106.5427008,
           39.3723679
         ]
       },
@@ -95,6 +95,22 @@
         "name": "Carter Lake",
         "type": "reservoir",
         "coordinate_source": "Geocoded from name: Carter Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2587706,
+          40.2176631
+        ]
+      },
+      "properties": {
+        "name": "St. Vrain Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
         "township_range_used": ""
       }
     },
@@ -119,14 +135,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.1326096,
-          40.7440806
+          -108.4861295,
+          39.0568995
         ]
       },
       "properties": {
-        "name": "Poudre Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
+        "name": "Colorado River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: Colorado River",
         "township_range_used": ""
       }
     },
@@ -135,14 +151,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.25877064062789,
-          40.21766313491101
+          -107.3106384,
+          37.6710636
         ]
       },
       "properties": {
-        "name": "St. Vrain Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
+        "name": "North Fork",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: North Fork",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9452508,
+          37.9583394
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Willow Creek",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.037876,
+          38.9965103
+        ]
+      },
+      "properties": {
+        "name": "Granby Reservoir",
+        "type": "reservoir",
+        "coordinate_source": "Geocoded from name: Granby Reservoir",
         "township_range_used": ""
       }
     }
