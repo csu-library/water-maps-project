@@ -12,11 +12,11 @@
               40.5332605
             ],
             [
-              -105.06073502556254,
+              -105.060735,
               40.5332605
             ],
             [
-              -105.06073502556254,
+              -105.060735,
               40.6867882
             ],
             [
@@ -57,14 +57,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.15417062771951,
-          40.55289005
+          -105.060735,
+          40.5332605
         ]
       },
       "properties": {
-        "name": "Horsetooth Reservoir",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Horsetooth Reservoir",
+        "name": "Warren Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Warren Lake",
         "township_range_used": ""
       }
     },
@@ -73,14 +73,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.06073502556254,
-          40.5332605
+          -105.0776098,
+          40.6541424
         ]
       },
       "properties": {
-        "name": "Warren Lake",
+        "name": "Dixon Reservoir",
+        "type": "reservoir",
+        "coordinate_source": "Geocoded from name: Dixon Reservoir",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1504076,
+          40.5807622
+        ]
+      },
+      "properties": {
+        "name": "College Lake",
         "type": "lake",
-        "coordinate_source": "Geocoded from name: Warren Lake",
+        "coordinate_source": "Geocoded from name: College Lake",
         "township_range_used": ""
       }
     }
