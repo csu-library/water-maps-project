@@ -103,14 +103,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.2587706,
-          40.2176631
+          -105.1326096,
+          40.7440806
         ]
       },
       "properties": {
-        "name": "St. Vrain Supply Canal",
+        "name": "Poudre Supply Canal",
         "type": "canal",
-        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
+        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
         "township_range_used": ""
       }
     },
@@ -151,14 +151,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.3106384,
-          37.6710636
+          -105.2587706,
+          40.2176631
         ]
       },
       "properties": {
-        "name": "North Fork",
+        "name": "St. Vrain Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8768039,
+          40.3298695
+        ]
+      },
+      "properties": {
+        "name": "Little Thompson River",
         "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork",
+        "coordinate_source": "Geocoded from name: Little Thompson River",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4509847,
+          40.4537393
+        ]
+      },
+      "properties": {
+        "name": "North Fork Big Thompson",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: North Fork Big Thompson",
         "township_range_used": ""
       }
     },
@@ -175,22 +207,6 @@
         "name": "Willow Creek",
         "type": "creek",
         "coordinate_source": "Geocoded from name: Willow Creek",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.037876,
-          38.9965103
-        ]
-      },
-      "properties": {
-        "name": "Granby Reservoir",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Granby Reservoir",
         "township_range_used": ""
       }
     }
