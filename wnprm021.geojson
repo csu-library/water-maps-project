@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.8476588,
+              37.9155149
+            ],
+            [
+              -108.8476588,
+              37.9155149
+            ],
+            [
+              -108.8476588,
+              37.9155149
+            ],
+            [
+              -108.8476588,
+              37.9155149
+            ],
+            [
+              -108.8476588,
+              37.9155149
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary",
+        "source": "Derived from Water Resource Coordinates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8476588,
+          37.9155149
+        ]
+      },
+      "properties": {
+        "name": "North Res",
+        "coordinate_source": "Geocoded"
+      }
+    }
+  ]
+}
