@@ -8,38 +8,31 @@
         "coordinates": [
           [
             [
-              -106.131868,
-              40.311436
+              -108.037876,
+              37.3010789
             ],
             [
-              -106.109514,
-              40.311436
+              -105.0144238,
+              37.3010789
             ],
             [
-              -106.109514,
-              40.663455
+              -105.0144238,
+              40.7440806
             ],
             [
-              -106.131868,
-              40.663455
+              -108.037876,
+              40.7440806
             ],
             [
-              -106.131868,
-              40.311436
+              -108.037876,
+              37.3010789
             ]
           ]
         ]
       },
       "properties": {
         "name": "Map Boundary",
-        "source": "Derived from Map-Level Township Ranges",
-        "map_township_ranges_used": [
-          "T8N R78W Section 15",
-          "T7N R78W Section 15",
-          "T6N R78W Section 15",
-          "T5N R78W Section 15",
-          "T4N R78W Section 15"
-        ]
+        "source": "Derived from Water Resource Coordinates"
       }
     },
     {
@@ -47,15 +40,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.823067,
-          40.2522073
+          -106.5150017,
+          39.6048786
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "coordinate_source": "Geocoded from name: Grand Lake",
-        "township_range_used": ""
+        "name": "Beaver Creek",
+        "coordinate_source": "Geocoded"
       }
     },
     {
@@ -63,15 +54,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.8430753,
-          40.2287823
+          -107.9662009,
+          39.2010438
         ]
       },
       "properties": {
-        "name": "Shadow Mountain Lake",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
-        "township_range_used": ""
+        "name": "Big Creek",
+        "coordinate_source": "Geocoded"
       }
     },
     {
@@ -79,47 +68,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5427008,
-          39.3723679
+          -105.2238294,
+          40.4210267
         ]
       },
       "properties": {
-        "name": "Carter Lake",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Carter Lake",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.4861295,
-          39.0568995
-        ]
-      },
-      "properties": {
-        "name": "Colorado River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Colorado River",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.2996194,
-          40.6867882
-        ]
-      },
-      "properties": {
-        "name": "Cache la Poudre River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Cache la Poudre River",
-        "township_range_used": ""
+        "name": "Big Thompson Power Plant",
+        "coordinate_source": "Geocoded"
       }
     },
     {
@@ -133,9 +88,469 @@
       },
       "properties": {
         "name": "Big Thompson River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Big Thompson River",
-        "township_range_used": ""
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1410249,
+          40.3865684
+        ]
+      },
+      "properties": {
+        "name": "Boedecker Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6613862,
+          40.1243821
+        ]
+      },
+      "properties": {
+        "name": "Buchanan Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6303658,
+          40.1310033
+        ]
+      },
+      "properties": {
+        "name": "Buchanan Pass",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2328255,
+          40.505091
+        ]
+      },
+      "properties": {
+        "name": "Buckhorn Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2996194,
+          40.6867882
+        ]
+      },
+      "properties": {
+        "name": "Cache La Poudre River",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5427008,
+          39.3723679
+        ]
+      },
+      "properties": {
+        "name": "Carter Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8531052,
+          40.6050814
+        ]
+      },
+      "properties": {
+        "name": "Chambers Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1530134,
+          40.6147846
+        ]
+      },
+      "properties": {
+        "name": "Claymore Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4547963,
+          37.8976675
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.776434,
+          37.7190475
+        ]
+      },
+      "properties": {
+        "name": "Deer Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6336558,
+          40.4063192
+        ]
+      },
+      "properties": {
+        "name": "Fall River",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.037876,
+          38.9965103
+        ]
+      },
+      "properties": {
+        "name": "Granby Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.823067,
+          40.2522073
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0144238,
+          40.247762
+        ]
+      },
+      "properties": {
+        "name": "Highland Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1541706,
+          40.5528901
+        ]
+      },
+      "properties": {
+        "name": "Horsetooth Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8223602,
+          40.4776545
+        ]
+      },
+      "properties": {
+        "name": "La Poudre Pass",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4607694,
+          37.3010789
+        ]
+      },
+      "properties": {
+        "name": "Little Beaver Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1262471,
+          40.3369995
+        ]
+      },
+      "properties": {
+        "name": "Lonetree Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1605585,
+          40.4836493
+        ]
+      },
+      "properties": {
+        "name": "Long Draw",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7923994,
+          40.4971891
+        ]
+      },
+      "properties": {
+        "name": "Long Draw Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5307036,
+          40.3457875
+        ]
+      },
+      "properties": {
+        "name": "Marys Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7414708,
+          40.105924
+        ]
+      },
+      "properties": {
+        "name": "Monarch Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3106384,
+          37.6710636
+        ]
+      },
+      "properties": {
+        "name": "North Fork",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.115965,
+          40.5532068
+        ]
+      },
+      "properties": {
+        "name": "Poudre Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1326096,
+          40.7440806
+        ]
+      },
+      "properties": {
+        "name": "Poudre Supply Canal",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1447804,
+          40.687747
+        ]
+      },
+      "properties": {
+        "name": "Poudre Valley Canal",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0845531,
+          40.6715506
+        ]
+      },
+      "properties": {
+        "name": "Rocky Ridge Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2440213,
+          40.21136
+        ]
+      },
+      "properties": {
+        "name": "St. Vrain Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2587706,
+          40.2176631
+        ]
+      },
+      "properties": {
+        "name": "St. Vrain Supply Canal",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7712336,
+          40.1081927
+        ]
+      },
+      "properties": {
+        "name": "Strawberry Lake",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1177486,
+          40.3258635
+        ]
+      },
+      "properties": {
+        "name": "Welch Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9452508,
+          37.9583394
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.983309,
+          40.1023515
+        ]
+      },
+      "properties": {
+        "name": "Windy Gap",
+        "coordinate_source": "Geocoded"
       }
     }
   ]
