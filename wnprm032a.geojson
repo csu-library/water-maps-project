@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.3463364,
+              40.679836
+            ],
+            [
+              -105.0061413,
+              40.679836
+            ],
+            [
+              -105.0061413,
+              40.8817759
+            ],
+            [
+              -105.3463364,
+              40.8817759
+            ],
+            [
+              -105.3463364,
+              40.679836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary",
+        "source": "Derived from Water Resource Coordinates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2996194,
+          40.6867882
+        ]
+      },
+      "properties": {
+        "name": "Cache La Poudre River",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3463364,
+          40.8817759
+        ]
+      },
+      "properties": {
+        "name": "Halligan Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0061413,
+          40.7037507
+        ]
+      },
+      "properties": {
+        "name": "North Poudre Irrigation Co.",
+        "coordinate_source": "Geocoded"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0334836,
+          40.679836
+        ]
+      },
+      "properties": {
+        "name": "North Poudre Reservoir",
+        "coordinate_source": "Geocoded"
+      }
+    }
+  ]
+}
